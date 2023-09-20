@@ -4,8 +4,8 @@
       "name": "myBlob",
       "type": "blobTrigger",
       "direction": "in",
-      "path": "container1/{name}",
-      "connection": "mpstorageac_STORAGE"
+      "path": "cdncontainer/{name}",
+      "connection": "marketplacestorageac_STORAGE"
     }
   ]
 }
