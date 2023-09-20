@@ -41,4 +41,4 @@ jobs:
           app-name: 'az-purge-cdn'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_390EF02786C44182973094E428AA1C86 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AA8D333EE8ED4B79A64F7B490859F2C6 }}
